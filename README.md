@@ -16,6 +16,8 @@ Create and activate a virtual environment, then install dependencies:
 * `pandas`
 * `matplotlib`
 * `shap`
+* `tensorflow`
+* `itertools`
 
 > Python 3.8+ is recommended.
 
@@ -25,7 +27,12 @@ Create and activate a virtual environment, then install dependencies:
 
 ### Deep Learning
 * **File(s)**:
+* `Deep Learning LSTM Regression Model.py`: Main LSTM regression model file
+* `baseline.py`
+* `window_generator.py`
 
+* **Instructions to run**:
+ * Run `Deep Learning LSTM Regression Model.py`, which will generate all necessary results
 
 ## Classification
 ### Machine Learning 
