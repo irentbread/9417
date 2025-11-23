@@ -18,6 +18,7 @@ Create and activate a virtual environment, then install dependencies:
 * `shap`
 * `tensorflow`
 * `itertools`
+* `seaborn`
 
 > Python 3.8+ is recommended.
 
