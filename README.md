@@ -33,11 +33,12 @@ Create and activate a virtual environment, then install dependencies:
 
 ### Deep Learning
 * **File(s)**:
-  * `Deep Learning LSTM Regression Model.py`: Main LSTM regression model file.
-  * `baseline.py`
-  * `window_generator.py`
+  * `Deep_Learning_LSTM_Regression_Model.py`: Main LSTM regression model file.
+  * `Deep_Learning_LSTM_Regression_Baseline.py`
+  * `Deep_Learning_LSTM_Regression_Plots.py`
+  * `Deep_Learning_LSTM_Regression_Window_Generator.py`
 * **Instructions to run**:
-  * Run `Deep Learning LSTM Regression Model.py`, which will generate all necessary results.
+  * Run `Deep Learning LSTM Regression Model.py`, which will import the remaining supporting files and generate all necessary results.
 
 ## Classification
 ### Machine Learning 
