@@ -27,12 +27,11 @@ Create and activate a virtual environment, then install dependencies:
 
 ### Deep Learning
 * **File(s)**:
-* `Deep Learning LSTM Regression Model.py`: Main LSTM regression model file
-* `baseline.py`
-* `window_generator.py`
-
+  * `Deep Learning LSTM Regression Model.py`: Main LSTM regression model file
+  * `baseline.py`
+  * `window_generator.py`
 * **Instructions to run**:
- * Run `Deep Learning LSTM Regression Model.py`, which will generate all necessary results
+  * Run `Deep Learning LSTM Regression Model.py`, which will generate all necessary results
 
 ## Classification
 ### Machine Learning 
@@ -47,8 +46,8 @@ Create and activate a virtual environment, then install dependencies:
   * `Sample limited temporal features FNN classification.ipynb`: Jupyter Notebook implementing the FNN model on limited temporal features for classification of Air Quality.
 
 * **Instructions to run**:
- * Run all cells in Jupyter Notebook from end-to-end, including hyperparameter tuning and training and testing on validation and test sets.
- * All plots relevant to feature importance and performance against naive models are shown
+  * Run all cells in Jupyter Notebook from end-to-end, including hyperparameter tuning and training and testing on validation and test sets.
+  * All plots relevant to feature importance and performance against naive models are shown
  
 ## Contact
 For any questions, feel free to reach out.
