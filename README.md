@@ -24,14 +24,19 @@ Create and activate a virtual environment, then install dependencies:
 ## Regression
 ### Machine Learning 
 * **File(s)**:
+  * `Machine Learning Ridge Regression Model.ipynb`: Jupyter Notebook implementing the Ridge model for regression of Air Quality.
+  * `Machine Learning XGBoost Regression Model.ipynb`: Jupyter Notebook implementing the XGBoost model for regression of Air Quality.
+* **Instructions to run**:
+  * Run the cell in Jupyter Notebook for each ML regression model file, which will generate respective directories with relevant CSV file summary data and plots.
+  * Preview of saved CSV files and Ridge test RMSE vs. Naive baseline RSME plots are shown.
 
 ### Deep Learning
 * **File(s)**:
-  * `Deep Learning LSTM Regression Model.py`: Main LSTM regression model file
+  * `Deep Learning LSTM Regression Model.py`: Main LSTM regression model file.
   * `baseline.py`
   * `window_generator.py`
 * **Instructions to run**:
-  * Run `Deep Learning LSTM Regression Model.py`, which will generate all necessary results
+  * Run `Deep Learning LSTM Regression Model.py`, which will generate all necessary results.
 
 ## Classification
 ### Machine Learning 
@@ -39,7 +44,7 @@ Create and activate a virtual environment, then install dependencies:
   * `Machine Learning LASSO XGBoost Classification Model.ipynb`: Jupyter Notebook implementing both the LASSO and XGBoost models for classification of Air Quality.
 * **Instructions to run**:
   * Run all cells in Jupyter Notebook from end-to-end, including hyperparameter tuning and training and testing on validation and test sets.
-  * All plots relevant to feature importance and performance against naive models are shown
+  * All plots relevant to feature importance and performance against naive models are shown.
 ### Deep Learning
 * **File(s)**:
   * `Deep Learning FNN Classification Model.ipynb`: Jupyter Notebook implementing the FNN model for classification of Air Quality.
@@ -47,7 +52,7 @@ Create and activate a virtual environment, then install dependencies:
 
 * **Instructions to run**:
   * Run all cells in Jupyter Notebook from end-to-end, including hyperparameter tuning and training and testing on validation and test sets.
-  * All plots relevant to feature importance and performance against naive models are shown
+  * All plots relevant to feature importance and performance against naive models are shown.
  
 ## Contact
 For any questions, feel free to reach out.
