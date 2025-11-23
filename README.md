@@ -22,6 +22,16 @@ Create and activate a virtual environment, then install dependencies:
 
 > Python 3.8+ is recommended.
 
+## Data Imputation and Feature Engineering
+* **File(s)**:
+  * `1. generate imputation model.ipynb`: Jupyter Notebook implementing the imputation model generation and validation.
+  * `2. construct features.ipynb`: Jupyter Notebook implementing the construction of additional temporal data features.
+  * `3. Anomaly analysis.ipynb`: Jupyter Notebook implementing comparison of the imputed model against ground truth and identifying anomalies.
+  * `AirQualityUCI.xlsx`: Original dataset that was given.
+  * `Model A1.pth`: Model pytorch file.
+* **Instructions to run**:
+  * Run the cell in Jupyter Notebook for each jupyter file, which will generate the imputation model and construct the features and new datasets
+
 ## Regression
 ### Machine Learning 
 * **File(s)**:
