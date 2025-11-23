@@ -19,6 +19,7 @@ Create and activate a virtual environment, then install dependencies:
 * `tensorflow`
 * `itertools`
 * `seaborn`
+* `tensorflow`
 
 > Python 3.8+ is recommended.
 
