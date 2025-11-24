@@ -39,7 +39,8 @@ Create and activate a virtual environment, then install dependencies:
   * `Machine Learning XGBoost Regression Model.ipynb`: Jupyter Notebook implementing the XGBoost model for regression of Air Quality.
 * **Instructions to run**:
   * Run the cell in Jupyter Notebook for each ML regression model file, which will generate respective directories with relevant CSV file summary data and plots.
-  * Preview of saved CSV files and Ridge test RMSE vs. Naive baseline RSME plots are shown.
+  * Preview of saved CSV files and Ridge test RMSE vs. Naive baseline RSME plots are shown for `Machine Learning Ridge Regression Model.ipynb`.
+  * Preview of saved CSV files and XGBoost test RMSE vs. Naive baseline RSME plots are shown for `Machine Learning XGBoost Regression Model.ipynb`.
 
 ### Deep Learning
 * **File(s)**:
